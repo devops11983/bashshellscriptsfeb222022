@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Author: Dominique
+#Author: Akoleme ADIKPETO
 #Date: Feb 22, 2022
 
 echo "Installing some packages....."
