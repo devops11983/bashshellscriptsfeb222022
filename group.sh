@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Author: DOminique
+#Author:Akoleme ADIKPETO
 #Date: Feb 28 2022
 
 #Description : write a script to check if group exist. it should ask for the group name, and then check the system automatically.
